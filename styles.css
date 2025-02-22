@@ -25,6 +25,10 @@ body {
 	font-size: 1.5em;
 	margin: 0em;
 }
+.highlight {
+	background-color: #88ffcc;
+	padding: 0.75em 1.5em;
+}
 footer {
 	font-size: 0.75em;
 	line-height: 2;
@@ -32,6 +36,10 @@ footer {
 h1 {
 	text-align: center;
 	font-size: 3em;
+	margin: 0.5em 0em;
+}
+h2 {
+	font-size: 1.5em;
 	margin: 0.5em 0em;
 }
 a {
