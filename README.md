@@ -11,3 +11,5 @@ The Web server must be configured to serve the `notfound.html` page when a page 
 ## License
 
 All text and code is dedicated to the public domain under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). A copy is available in `LICENSE.txt`.
+
+Icons are from [Font Awesome](https://fontawesome.com/) and are available under the [free license](https://fontawesome.com/license/free) terms.
