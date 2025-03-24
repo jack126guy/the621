@@ -30,11 +30,6 @@ body {
 	padding: 0.75em 1.5em;
 	margin: 1.5em 0em;
 }
-footer p {
-	font-size: 0.75em;
-	line-height: 2;
-	margin: 1em 0em;
-}
 h1 {
 	text-align: center;
 	font-size: 3em;
@@ -49,4 +44,7 @@ a {
 }
 p, ul {
 	margin: 0.75em 0em;
+}
+small {
+	font-size: 0.75em;
 }
