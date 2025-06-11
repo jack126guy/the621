@@ -4,7 +4,7 @@
 
 ## Installation
 
-Simply copy the files to the Web server. No build tools or external libraries are required.
+Simply copy the contents of the `public` directory to the Web server. No build tools or external libraries are required.
 
 The Web server must be configured to serve the `notfound.html` page when a page is not found. The exact process will depend on the server software being used.
 
