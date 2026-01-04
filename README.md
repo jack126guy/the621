@@ -10,6 +10,6 @@ The Web server must be configured to serve the `notfound.html` page when a page 
 
 ## License
 
-All text and code is dedicated to the public domain under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). A copy is available in `LICENSE.txt`.
+All contents are dedicated to the public domain under [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). A copy is available in `LICENSE.txt`.
 
-Icons are from [Font Awesome](https://fontawesome.com/) and are available under the [free license](https://fontawesome.com/license/free) terms.
+Icons are based on [Maki](https://labs.mapbox.com/maki-icons/), which is also in the public domain under CC0. (Previous versions included icons from [Font Awesome](https://fontawesome.com/) which are available under a separate [license](https://fontawesome.com/license/free).)
