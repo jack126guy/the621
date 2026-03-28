@@ -1,4 +1,5 @@
 body {
+	background-color: #88ccff;
 	margin: 0em auto;
 	padding: 0.75em;
 	max-width: 50em;
@@ -15,7 +16,7 @@ body {
 	margin: 0.75em;
 	width: 9em;
 	height: 9em;
-	background-color: #88ccff;
+	background-color: #ffffff;
 	text-align: center;
 }
 .card img {
